@@ -6,4 +6,5 @@ Also, using the data obtained from a comma separated values (csv) file containin
 We will also address and test the idea that mortality due to the covid-19 infection is higher in males than that in females belonging to the same population sample.
 
 -> R file for the project contains the RStudio code that was written for the analysis.
--> I have also attached the project report and interferences of the analysis in a PDF(conv to binary file).
+
+-> I have also attached the project report and interferences of the analysis in a PDF file which can be downloaded locally for a better view.
