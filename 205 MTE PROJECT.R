@@ -6,9 +6,9 @@ library(covid19india)
 data1<-covid19india::get_all_data()
 
 #obtaining various parameters of the data from 2021-06-01 to 2021-10-10
-cases=data1[7977:8108]$daily_cases
-doses=data1[7977:8108]$total_doses
-deaths=data1[7977:8108]$daily_deaths
+cases=data1[8250:8381]$daily_cases
+doses=data1[8250:8381]$total_doses
+deaths=data1[8250:8381]$daily_deaths
 
 
 #under the assumption that after the initiation of the vaccine drive in India,
